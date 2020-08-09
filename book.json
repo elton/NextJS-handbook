@@ -1,0 +1,50 @@
+{
+  "title": "NextJS Handbook",
+  "author": "Elton",
+  "description": "NextJS Handbook",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+  },
+  "structure": {
+    "readme": "README.md"
+  },
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-pro",
+    "chapter-fold",
+    "splitter",
+    "back-to-top-button",
+    "github",
+    "lightbox",
+    "tbfed-pagefooter",
+    "donate",
+    "katex",
+    "advanced-emoji",
+    "emphasize",
+    "graph"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/elton"
+    },
+
+    "tbfed-pagefooter": {
+      "copyright": "&copy 2020 Elton",
+      "modify_label": "该文件最后修改时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "donate": {
+      "alipay": "/source/images/donate.png",
+      "title": "",
+      "button": "赞赏",
+      "alipayText": " "
+    }
+  }
+}
