@@ -19,6 +19,7 @@
   - [内置 CSS 支持](content/ch03.md)
   - [图像组件和图片优化](content/ch02_1.md)
   - [静态文件处理](content/ch04.md)
+  - [快速刷新](content/ch04_1.md)
   - [环境变量](content/ch05.md)
 
 - [路由](content/ch06.md)
