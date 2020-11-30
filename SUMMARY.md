@@ -17,6 +17,7 @@
   - [页面](content/ch01.md)
   - [数据获取](content/ch02.md)
   - [内置 CSS 支持](content/ch03.md)
+  - [图像组件和图片优化](content/ch02_1.md)
   - [静态文件处理](content/ch04.md)
   - [环境变量](content/ch05.md)
 
