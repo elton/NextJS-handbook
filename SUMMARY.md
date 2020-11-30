@@ -26,3 +26,5 @@
 
   - [介绍](content/ch06.md)
   - [动态路由](content/ch07.md)
+
+- [部署](content/ch08.md)
